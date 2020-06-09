@@ -10,6 +10,7 @@ kangaroo
 
 ### 最新
 
+* [CentOS安装RabbitMQ环境](https://www.kangaroohy.com/articles/2020/06/07/1591545309473.html)
 * [CentOS7安装Nginx、Java、Redis、MongoDB环境](https://www.kangaroohy.com/articles/2020/04/27/1587989613155.html)
 * [Spring Cloud Feign 配置 FastJson](https://www.kangaroohy.com/articles/2020/03/29/1585414815817.html)
 * [CentOS 7 自动分配IP与配置静态IP](https://www.kangaroohy.com/articles/2020/03/24/1585042742381.html)
