@@ -1,15 +1,16 @@
-<p align="center"><img alt="kangaroo" src="https://img.hacpai.com/avatar/1525954222365_1570758095941.png"></p><h2 align="center">
-kangaroo
+<p align="center"><img alt="kangaroo的个人笔记" src="https://img.hacpai.com/avatar/1525954222365_1570758095941.png"></p><h2 align="center">
+kangaroo的个人笔记
 </h2>
 
 <h4 align="center"><a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=_ZKYl56Yi5aWyMjLy7mIiNealpQ" style="text-decoration:none;font-size:10px;color:rgba(0,0,0,0.38);">联系邮箱</a></h4>
-<p align="center"><a title="kangaroo" target="_blank" href="https://github.com/kangaroo1122/solo-blog"><img src="https://img.shields.io/github/last-commit/kangaroo1122/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<p align="center"><a title="kangaroo的个人笔记" target="_blank" href="https://github.com/kangaroo1122/solo-blog"><img src="https://img.shields.io/github/last-commit/kangaroo1122/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/kangaroo1122/solo-blog"><img src="https://img.shields.io/github/repo-size/kangaroo1122/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/kangaroo1122/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [CentOS 7安装配置FTP服务器](https://www.kangaroohy.com/articles/2020/11/13/1605236627778.html)
 * [CentOS 7搭建RabbitMQ环境](https://www.kangaroohy.com/articles/2020/06/07/1591545309473.html)
 * [CentOS7安装Nginx、Java、Redis、MongoDB环境](https://www.kangaroohy.com/articles/2020/04/27/1587989613155.html)
 * [Spring Cloud Feign 配置 FastJson](https://www.kangaroohy.com/articles/2020/03/29/1585414815817.html)
@@ -29,7 +30,6 @@ kangaroo
 * [SSM使用POI组件做Excle的批量导入导出](https://www.kangaroohy.com/articles/2019/04/27/1556297068615.html)
 * [SSM使用POI组件读取上传的word文档内容](https://www.kangaroohy.com/articles/2019/04/26/1556209854116.html)
 * [Nginx+Tomcat 配置不同二级域名访问Tomcat中的对应项目到Nginx给网站安装SSL证书](https://www.kangaroohy.com/articles/2019/03/23/1553310633858.html)
-* [利用 NeteaseCloudMusicApi 搭建网易云 API](https://www.kangaroohy.com/articles/2019/03/18/1552890403559.html)
 
 
 
