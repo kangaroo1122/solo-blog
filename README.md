@@ -1,9 +1,9 @@
-<p align="center"><img alt="kangaroo的个人笔记" src="https://img.hacpai.com/avatar/1525954222365_1570758095941.png"></p><h2 align="center">
-kangaroo的个人笔记
+<p align="center"><img alt="kangaroo" src="https://img.hacpai.com/avatar/1525954222365_1570758095941.png"></p><h2 align="center">
+kangaroo
 </h2>
 
 <h4 align="center"><a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=_ZKYl56Yi5aWyMjLy7mIiNealpQ" style="text-decoration:none;font-size:10px;color:rgba(0,0,0,0.38);">联系邮箱</a></h4>
-<p align="center"><a title="kangaroo的个人笔记" target="_blank" href="https://github.com/kangaroo1122/solo-blog"><img src="https://img.shields.io/github/last-commit/kangaroo1122/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<p align="center"><a title="kangaroo" target="_blank" href="https://github.com/kangaroo1122/solo-blog"><img src="https://img.shields.io/github/last-commit/kangaroo1122/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/kangaroo1122/solo-blog"><img src="https://img.shields.io/github/repo-size/kangaroo1122/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/kangaroo1122/solo-blog.svg"></a></p>
