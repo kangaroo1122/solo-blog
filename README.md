@@ -10,6 +10,7 @@ kangaroo
 
 ### 最新
 
+* [2020年终总结](https://www.kangaroohy.com/articles/2021/01/12/1610382796520.html)
 * [CentOS 7安装配置FTP服务器](https://www.kangaroohy.com/articles/2020/11/13/1605236627778.html)
 * [CentOS 7搭建RabbitMQ环境](https://www.kangaroohy.com/articles/2020/06/07/1591545309473.html)
 * [CentOS7安装Nginx、Java、Redis、MongoDB环境](https://www.kangaroohy.com/articles/2020/04/27/1587989613155.html)
@@ -29,7 +30,6 @@ kangaroo
 * [SSM实现网站后台导出sql文件备份数据库](https://www.kangaroohy.com/articles/2019/04/27/1556340760118.html)
 * [SSM使用POI组件做Excle的批量导入导出](https://www.kangaroohy.com/articles/2019/04/27/1556297068615.html)
 * [SSM使用POI组件读取上传的word文档内容](https://www.kangaroohy.com/articles/2019/04/26/1556209854116.html)
-* [Nginx+Tomcat 配置不同二级域名访问Tomcat中的对应项目到Nginx给网站安装SSL证书](https://www.kangaroohy.com/articles/2019/03/23/1553310633858.html)
 
 
 
