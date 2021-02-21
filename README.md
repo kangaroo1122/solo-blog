@@ -10,6 +10,7 @@ kangaroo
 
 ### 最新
 
+* [Kepware配置OPC UA实现匿名or用户名/密码连接](https://www.kangaroohy.com/articles/2021/02/21/1613885251501.html)
 * [2020年终总结](https://www.kangaroohy.com/articles/2021/01/12/1610382796520.html)
 * [CentOS 7安装配置FTP服务器](https://www.kangaroohy.com/articles/2020/11/13/1605236627778.html)
 * [CentOS 7搭建RabbitMQ环境](https://www.kangaroohy.com/articles/2020/06/07/1591545309473.html)
@@ -29,7 +30,6 @@ kangaroo
 * [Oracle使用记录【踩的坑】](https://www.kangaroohy.com/articles/2019/07/22/1563785773680.html)
 * [SSM实现网站后台导出sql文件备份数据库](https://www.kangaroohy.com/articles/2019/04/27/1556340760118.html)
 * [SSM使用POI组件做Excle的批量导入导出](https://www.kangaroohy.com/articles/2019/04/27/1556297068615.html)
-* [SSM使用POI组件读取上传的word文档内容](https://www.kangaroohy.com/articles/2019/04/26/1556209854116.html)
 
 
 
